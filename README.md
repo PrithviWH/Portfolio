@@ -1,84 +1,70 @@
-📄 Prithviraj Kamble - Personal Resume Webpage
-✨ Overview
-This repository hosts the source code for Prithviraj Kamble's personal resume webpage. Designed from scratch with a focus on a premium, modern, and harmonious aesthetic, this webpage aims to present a professional profile in an engaging and visually appealing manner. It highlights Prithviraj's skills, education, and projects with subtle animations, interactive elements, and a refined color palette.
+# 📄 Prithviraj Kamble - Personal Resume Webpage
 
-The design prioritizes a less contrasted look, offering a sophisticated and "sexy" user experience that helps Prithviraj stand out to potential employers.
+## ✨ Overview
+This repository contains the source code for **Prithviraj Kamble's** personal resume webpage — meticulously designed to reflect a **premium, modern, and professional** digital presence. The design emphasizes subtle animations, interactive sections, and a harmonious visual style to showcase skills, education, and projects.
 
-🌟 Features
-Responsive Design: Fully adaptable layout ensures optimal viewing across all devices (desktops, tablets, mobile phones).
+> A muted, dark aesthetic combined with elegant typography delivers a refined, standout experience for potential employers and collaborators.
 
-Muted Dark Theme: A deep, warm dark background combined with soft, inviting accent colors for a premium, less contrasted look.
+---
 
-Elegant Typography: Utilizes Google Fonts (Playfair Display for headings, Inter for body text) to provide a sophisticated and highly readable visual experience.
+## 🌟 Features
 
-Dynamic Hero Section: Features a captivating particle background animation and subtle word-by-word text reveals for an impactful first impression.
+- **Responsive Design**  
+  Fully optimized for desktops, tablets, and mobile devices.
 
-Scroll-Reveal Animations: Sections gracefully fade and slide into view as the user scrolls, creating a smooth and engaging browsing experience.
+- **Muted Dark Theme**  
+  Warm, dark backgrounds with soft, inviting accent colors.
 
-Interactive Cards & Elements:
+- **Elegant Typography**  
+  Google Fonts: *Playfair Display* (headings) & *Inter* (body).
 
-Navbar: Adapts on scroll, with subtle hover effects on navigation links.
+- **Dynamic Hero Section**  
+  Particle background + animated word-by-word text intro.
 
-Education Cards: Feature a gentle border glow on hover.
+- **Scroll-Reveal Animations**  
+  Smooth transitions as sections come into view.
 
-Strength Cards: Exhibit a subtle 3D lift and soft glow on hover, with animated icons.
+- **Interactive Components**  
+  - **Navbar** with scroll adaptation and hover effects  
+  - **Education Cards** with glow on hover  
+  - **Strength Cards** with soft 3D lift + animated icons  
+  - **Skills Section** with animated shimmering progress bars  
+  - **Project Cards** with tilt and glow on hover  
+  - **Contact Icons** for quick access
 
-Technical Skills: Each skill is presented with an animated progress bar that fills and shimmers when in view, quantitatively showcasing proficiency.
+- **Clean Codebase**  
+  Modular separation of HTML, CSS, and JS for easy maintenance.
 
-Project Cards: Incorporate a refined 3D tilt effect and a subtle border glow on hover, drawing attention to portfolio highlights.
+---
 
-Contact Section: Interactive icons and links encourage easy communication.
+## 🛠️ Built With
 
-Clean Code Structure: Separate HTML, CSS, and JavaScript files for maintainability and scalability.
+- **HTML5** – Semantic structure
+- **CSS3** – Styling, animation, backdrop-filter, transforms
+- **JavaScript** – Interaction logic, particle effects, scroll animations
+- **Bootstrap 5.3.3** – Grid system & UI components
+- **Google Fonts** – *Playfair Display*, *Inter*
+- **Font Awesome 6.5.2** – Vector icons
 
-🛠️ Technologies Used
-HTML5: For semantic structure and content organization.
+---
 
-CSS3: For all styling, animations, transitions, and responsive design, leveraging advanced features like backdrop-filter, gradients, and transforms.
+## 🚀 Setup & Installation
 
-JavaScript: For dynamic behaviors, scroll animations (Intersection Observer), particle effects (Canvas API), and general interactivity.
+To run the project locally:
 
-Bootstrap 5.3.3: Provides a robust, responsive grid system and pre-styled components (Navbar, Cards, Buttons).
-
-Google Fonts: Playfair Display and Inter for custom typography.
-
-Font Awesome 6.5.2: For a rich library of scalable vector icons.
-
-🚀 Setup & Installation
-To run this project locally, follow these simple steps:
-
-Clone the repository:
-
+```bash
 git clone https://github.com/PrithviWH/Portfolio.git
 cd Portfolio
 
-(Replace your-username/your-resume-repo with your actual GitHub repository link.)
 
-Open index.html:
-Simply open the index.html file in your preferred web browser. All necessary CSS and JavaScript files are linked via CDNs or relative paths, so no additional build steps are required.
 
-💡 Usage
-Navigate through the different sections using the top navigation bar or by simply scrolling down.
+💡 Usage Tips
+Use the navbar or scroll to navigate.
 
-Hover over navigation links, cards, and buttons to experience the interactive effects.
+Hover over cards and icons to reveal interactions.
 
-Observe the skill bars animate as they come into view.
+Scroll down to trigger skill bar animations.
 
-Click on "Discover More" or "Explore Project" buttons (dummy links) to simulate further interactions.
+Buttons simulate project and action links.
 
-The particle background in the hero section provides a subtle, dynamic visual.
-
-📞 Contact
-Feel free to connect with Prithviraj Kamble through the contact information provided on the webpage.
-
-Email: prithvi.kamble7579@gmail.com
-
-Phone: +91 99757 07579 / 76666 01887
-
-LinkedIn: [Your LinkedIn Profile URL Here] (Highly Recommended)
-
-GitHub: [Your GitHub Profile URL Here] (Highly Recommended)
-
-⚖️ License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+Enjoy a smooth and elegant browsing experience.
